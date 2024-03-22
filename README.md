@@ -1,10 +1,11 @@
 # [JSL03] Project Submission: Which one is which? Declarative or Imperative?!
 
-Loom Recording Link:
+Loom Recording Links:
 
 Example 1 [https://www.loom.com/share/2f58d1d8ab36431695c64e51046f6dc4?sid=af8367ed-131d-441f-9652-8c6fee13ca50]
 
 Example 2 [https://www.loom.com/share/8cf033ad6b9c4e3db052631a14edaaeb?sid=fc668ea4-26f5-416d-b5e3-17ab6841f1a1]
+
 
 # Project Overview
 
@@ -88,5 +89,4 @@ Example #: [Insert Example Number]
    - Mention any abstraction layers or functions used to encapsulate actions.
 
 # Learning Outcome [1 Minute]
-- Reflect on what you've learned from analyzing these code examples in different paradigms.
-
+- Reflect on what you've learned from analyzing these code examples in different styles
